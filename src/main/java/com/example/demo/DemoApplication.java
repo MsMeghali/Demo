@@ -10,6 +10,7 @@ public class DemoApplication {
 		System.out.println("k");
 		System.out.println("k");
 		SpringApplication.run(DemoApplication.class, args);
+		System.out.println("this is change1");
 	}
 
 }
